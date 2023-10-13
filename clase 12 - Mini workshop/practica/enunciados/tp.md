@@ -1,0 +1,1 @@
+# Re hacer el primer Workshop pero con jQuery y agregando que se elimine al tocar el alumno, en vez de poniendo el numero de DNI.
